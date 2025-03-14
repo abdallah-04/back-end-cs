@@ -1,0 +1,25 @@
+{
+  "name": "back-end-cs",
+  "version": "1.0.0",
+  "main": "task_2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdallah-04/back-end-cs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdallah-04/back-end-cs/issues"
+  },
+  "homepage": "https://github.com/abdallah-04/back-end-cs#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.1.9"
+  },
+  "description": ""
+}
